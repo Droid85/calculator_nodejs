@@ -1,0 +1,19 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "calculator nodejs",
+  "main": "calc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Droid85/calculator_nodejs.git"
+  },
+  "author": "Andrii Ostapenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Droid85/calculator_nodejs/issues"
+  },
+  "homepage": "https://github.com/Droid85/calculator_nodejs#readme"
+}
